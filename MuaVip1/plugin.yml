@@ -1,0 +1,9 @@
+name: MuaVip
+api: 2.0.0
+version: 2.0
+author: MrDinoDuck || Edit by Cur
+main: cur3\Main
+commands:
+ muavip:
+  description: Mua Vip
+  default: true

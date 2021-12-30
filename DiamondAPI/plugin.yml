@@ -1,0 +1,28 @@
+name: DiamondAPI
+version: 2.0.1
+api: [2.0.0, 3.0.0]
+main: diamondapi\Main
+author: Jero
+commands:
+  diamond:   
+    description: "Hiển thị số Coins của người chơi có sẵn!"
+  hmm1:
+    description: "Xem số Coins của người chơi!"
+  hmm2:
+    descriprion: "Trả Coins cho người chơi!"
+  hmm3:
+    description: "Bảng xếp hạng số Coins!"
+  hmm4:
+    permission: "setcoins.command"
+    default: op
+    description: "Đặt số Coins cho người chơi!"
+  addkc:
+    permission: "addkc.command"
+    default: op
+    description: "Thêm Coins cho người chơi!"
+  hmm5:
+    permission: "takecoins.command"
+    defualt: op
+    description: "Lấy số Coins từ người chơi!"
+  hmm6:
+    description: "Trợ giúp Plugin Coins!"

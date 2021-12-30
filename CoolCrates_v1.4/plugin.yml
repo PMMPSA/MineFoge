@@ -1,0 +1,7 @@
+name: CoolCrates
+description: Simple crate plugin
+author: ShadowLessMCPE
+main: CoolCrates\Loader
+load: POSTWORLD
+version: "1.4"
+api: [3.0.0, 4.0.0, 2.0.0]

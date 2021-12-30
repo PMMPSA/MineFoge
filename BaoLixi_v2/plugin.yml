@@ -1,0 +1,8 @@
+name: Lixi
+version: 2.0
+api: 2.0.0
+main: PlayerReward\Main
+
+commands:
+ lixi:
+   description: "Tặng Coin Cho Toàn Bộ Người Chơi Đang Chơi Trong Server!"

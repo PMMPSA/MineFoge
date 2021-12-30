@@ -1,0 +1,9 @@
+name: Danhhieu
+api: 2.0.0
+version: 2.0
+author: Edit by Cur
+main: cur5\Main
+commands:
+ danhhieu:
+  description: Danh Hieu
+  default: true

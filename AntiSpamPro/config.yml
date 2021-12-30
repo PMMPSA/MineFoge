@@ -1,0 +1,20 @@
+---
+delay: 2
+message1: §a§lXin lỗi,Bạn Cần Chat Chậm Lại! 
+action: ban
+kickmessage: §c§lServer Đã Đóng Cửa
+warnings: 5
+setkickmessage: Spammers will be kicked
+setbanmessage: Spammers will be banned
+setbanipmessage: Spammers will be IP banned
+setbancidmessage: Spammers will be CID banned
+banmessage: No Spam
+setdelay: AntiSpamPro settings have been changed
+invaliddelay: Please use a valid delay (1, 2 or 3)
+help1: /asp kick    set the punishment to kick
+help2: /asp ban     set the punishment to ban
+help3: /asp set 2   set minimum delay (1,2 or 3)
+help4: /asp         display the current minimum delay
+lastwarning: CAREFUL... LAST WARNING
+antiswearwords: true
+...

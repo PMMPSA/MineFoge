@@ -1,0 +1,26 @@
+---
+type: block
+message: §6§l Đừng §c Quảng Cáo!
+domain:
+- .me
+- .com
+- .net
+- minefore.tk
+- minefore
+- mf
+- MF
+- sakuraft
+- nam
+- MineTinh
+allowed.domain:
+- minesao.sytes.net
+detect.sign: true
+lines:
+- §c=============
+- §6§l Đừng §c Quảng Cáo!
+- §c=============
+- ""
+blocked.cmd:
+- /me
+- /tell
+...

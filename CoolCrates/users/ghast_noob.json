@@ -1,0 +1,8 @@
+{
+    "crateKeys": {
+        "epic.crate": 9,
+        "legendary.crate": 3,
+        "common.crate": 4,
+        "rare.crate": 1
+    }
+}

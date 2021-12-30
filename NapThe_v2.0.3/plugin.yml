@@ -1,0 +1,8 @@
+name: NapThe
+version: 2.0
+api: 2.0.0
+author: masterjero
+main: napthe\main
+commands:
+ napthe:
+    description: Nạp thẻ

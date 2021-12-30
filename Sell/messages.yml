@@ -1,0 +1,8 @@
+---
+#When a player doesn't have permission to /sell
+error-permission: "§7[§a+§7]§a Bạn không có quyền dùng lệnh này!!"
+#When a player doesn't have permission to /sell hand
+error-nopermission-sellHand: §7[§a+§7]§a Bạn không có quyền dùng lệnh này!!"
+#When a player doesn't have permission to /sell all
+error-nopermission-sellAll: "§7[§a+§7]§a Bạn không có quyền dùng lệnh này!!"
+...

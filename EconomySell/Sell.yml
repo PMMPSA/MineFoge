@@ -1,0 +1,72 @@
+---
+461:67:-107:haha:
+  x: 461
+  "y": 67
+  z: -107
+  level: haha
+  cost: 5000
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 64
+457:67:-110:haha:
+  x: 457
+  "y": 67
+  z: -110
+  level: haha
+  cost: 5500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+461:67:-110:haha:
+  x: 461
+  "y": 67
+  z: -110
+  level: haha
+  cost: 5500
+  item: 17
+  itemName: Spruce Wood
+  meta: 1
+  amount: 64
+462:67:-110:haha:
+  x: 462
+  "y": 67
+  z: -110
+  level: haha
+  cost: 5500
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 64
+463:67:-110:haha:
+  x: 463
+  "y": 67
+  z: -110
+  level: haha
+  cost: 5500
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 64
+465:67:-110:haha:
+  x: 465
+  "y": 67
+  z: -110
+  level: haha
+  cost: 5500
+  item: 162
+  itemName: Acacia Wood
+  meta: 0
+  amount: 64
+465:67:-106:haha:
+  x: 465
+  "y": 67
+  z: -106
+  level: haha
+  cost: 5500
+  item: 162
+  itemName: Dark Oak Wood
+  meta: 1
+  amount: 64
+...

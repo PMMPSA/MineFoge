@@ -1,0 +1,9 @@
+name: DoiCoin
+version: 1.0
+main: cur1\Main
+author: Phuongaz||Edit by CurliestDrake66
+api: 2.0.0
+
+commands:
+ muacoin:
+  default: true

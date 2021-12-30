@@ -1,0 +1,40 @@
+name: AutoMessage
+main: AutoMessage\Main
+version: "1.16"
+api: [3.0.0-ALPHA7]
+load: STARTUP
+author: SoiCon
+description: The sextoy by soi
+website: http://youtube.com/c/soicontm
+
+commands:
+ automessage:
+  aliases: [bc, broadcast]
+  description: AutoMessage Cmd
+  permission: automesage
+ sendmessage:
+  aliases: [sm, smsg]
+  description: Send a message to the specified player (* for all players)
+  permission: automessage.sendmessage
+ sendpopup:
+  aliases: [sp, spop]
+  description: Send a popup to the specified player (* for all players)
+  permission: automessage.sendpopup
+
+permissions:
+ broadcaster:
+  default: op
+  description: AutoMessage commands permissions.
+  children:
+   automessage.info:
+    default: op
+    description: Allows player to read info about AutoMessage.
+   automessage.reload:
+    default: op
+    description: Allows player to reload AutoMessage.
+   automessage.sendmessage:
+    default: op
+    description: Allows sending messages to players with /sendmessage command.
+   automessage.sendpopup:
+    default: op
+    description: Allows sending popups to players with /sendpopup command.

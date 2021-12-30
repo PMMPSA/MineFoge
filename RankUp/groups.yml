@@ -1,0 +1,61 @@
+---
+groups:
+  Coal:
+    entrance:
+    - setgroup {name} Coal
+    exit: []
+    perms: []
+    members:
+    - WTF_PVP_WTF
+    - _Tinh_
+    - TK_Stream
+    - ___I_NEED_YOU___
+  Iron:
+    entrance:
+    - setgroup {name} Iron
+    exit: []
+    perms: []
+    members:
+    - luongmanhquynh
+  Gold:
+    entrance:
+    - setgroup {name} Gold
+    exit: []
+    perms: []
+    members: []
+  Diamond:
+    entrance:
+    - setgroup {name} Diamond
+    exit: []
+    perms: []
+    members: []
+  King:
+    entrance:
+    - setgroup {name} King
+    exit: []
+    perms: []
+    members: []
+  Master:
+    entrance:
+    - setgroup {name} Master
+    exit: []
+    perms: []
+    members:
+    - Ric_pika
+    - cuto100cm
+    - Karate_
+  VIPMaster:
+    entrance:
+    - setgroup {name} VIPMaster
+    - givemoney {name} 8000000
+    exit: []
+    perms: []
+    members:
+    - YTB_Jero
+    - QuiKuda
+    - RiceCrop
+    - Doraemon
+    - lololololo
+    - CurliestDrake68
+    - bao_trinhmine
+...

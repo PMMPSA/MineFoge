@@ -1,0 +1,11 @@
+name: Boss
+main: cdevBoss\cdevBoss
+api: 2.0.0
+version: 2.0
+description: Boss System
+author: CrystalDev [Edit By CurliestDrake66]
+website: vk.com/crystaldev
+
+commands:
+ boss:
+  default: op

@@ -1,0 +1,14 @@
+name: AutoSell
+main: cur\AutoSell\main
+version: 0.0.1
+api: [3.0.0, 3.9.0, 4.0.0, 2.0.0]
+author: Cur
+description: Sold all items when your inventory is full and this mode is enable
+
+commands:
+  autosell:
+    description: "Sold all items when your inventory is full and this mode is enable"
+    permission: as.command
+permissions:
+  as.command:
+    default: true
